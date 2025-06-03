@@ -12,7 +12,7 @@ Streamlit kullanılarak yapılmıştır ve OpenAI GPT-3.5 Turbo modeli ile çal�
 ## Kurulum
 
 1. Repoyu klonlayın:
-git clone https://github.com/kullaniciadi/anna-bot.git
+git clone https://github.com/sk1tliv/anna-bot.git
 cd anna-bot
 
 2. Sanal ortam oluşturun ve aktifleştirin:
