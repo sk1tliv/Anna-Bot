@@ -26,5 +26,5 @@ pip install -r requirements.txt
 4. .env dosyasını oluşturun ve içine OpenAI API anahtarınızı ekleyin:
 OPENAI_API_KEY=your_openai_api_key_here
 
-5. Çalıştırma
+5. Çalıştırma:
 streamlit run app.py
